@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  <link rel="stylesheet" href="css/styles.css">
+  <!--<link rel="stylesheet" href="css/styles.css">-->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&family=Montserrat&display=swap" rel="stylesheet">
@@ -13,36 +13,37 @@
   <title>Frontend Mentor | Product preview card component</title>
 </head>
 <body>
-  <div class="container">
-    <img class="product-img" src="images/image-product-desktop.jpg" alt="Product-img">
-  <div class="text-container">
-    <div class="top-content">
-    <h2>PERFUME</h2>
-    <h1>Gabrielle Essence Eau De Parfum</h1>
+  <!--Card container-->
+  <div class="card-container">
+    <div class="image-content">
     </div>
-  <div class="paragraph">
-    <p>A floral, solar and voluptuous interpretation composed by Olivier Polge, 
-      Perfumer-Creator for the House of CHANEL.</p>
-  </div>
-
-  <div class="amount">
-    <h2>$149.99</h2>
-    <h3>$169.99</h3>
-
-  </div>
-
-    <button class="btn">
-      <a href="">
-        <div class="button">
-          <img src="/images/icon-cart.svg" alt="cart image">
-          <p> Add to Cart </p>
-        </div>
-      </a>
-    </button>
-  </div>
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+    <!--Bottom Container below image-->
+    <div class="bottom-container">
+      <h2>PERFUME</h2>
+      <div class="perfume-name">
+        <h1>Gabrielle Essence Eau De Parfum</h1>
+      </div>
+      <div class="description">
+        <p>A floral, solar and voluptuous interpretation composed by Oliver
+          Polge, Perfumer-Creator for the House of CHANEL.
+        </p>
+      </div>
+      <div class="price-after">
+        <p>
+          $149.99
+        </p>
+      </div>
+      <div class="price-before">
+        <p>
+          $169.99
+        </p>
+      </div>
+      <div class="button">
+        <button class="btn">
+          Add to Cart
+        </button>
+      </div>
+    </div>
   </div>
 </body>
 </html>
