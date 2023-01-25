@@ -19,7 +19,7 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-[label](../../ShareX/Screenshots/2023-01/chrome_yrtRADowt8.jpg%0D) ![Alt text](../../ShareX/Screenshots/2023-01/chrome_diCFLcL2Kn.jpg)
+- [Mobile](F:\ShareX\Screenshots\2023-01\chrome_diCFLcL2Kn.jpg)
 
 ### Links
 
