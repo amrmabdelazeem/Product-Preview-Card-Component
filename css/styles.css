@@ -139,7 +139,7 @@ body{
   }
 
   .bottom-container{
-    margin: 20px 10px;
+    margin: 0px 10px;
     max-width: 250px;
   }
   .description{
@@ -147,9 +147,14 @@ body{
     margin-right: 40px;
     line-height: 0;
   }
+.price-before{
+  position: relative;
+  left: 70px;
+}
+
   .button{
     width: 240px;
-
     padding-right: 60px;
+    padding-bottom: 20px;
   }
 }
