@@ -19,7 +19,8 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-- [Mobile](F:\ShareX\Screenshots\2023-01\chrome_diCFLcL2Kn.jpg)
+- [Mobile](https://i.imgur.com/HhhLYsC.jpeg)
+- [Desktop](https://i.imgur.com/omtboAH.jpeg)
 
 ### Links
 
