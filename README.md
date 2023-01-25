@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontendMentor Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-BKoQ6ce6BH)
+- Live Site URL: [https://amrmabdelazeem.github.io/Product-Preview-Card-Component/](https://amrmabdelazeem.github.io/Product-Preview-Card-Component/)
 
 
 ### Built with
